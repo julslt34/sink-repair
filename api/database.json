@@ -1,0 +1,55 @@
+{
+  "plumbers": [
+    {
+      "id": "1",
+      "name": "Maude"
+    },
+    {
+      "id": "2",
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "serviceRequestId": "2",
+      "plumberId": "1",
+      "date_created": 1659118665900,
+      "id": 1
+    },
+    {
+      "serviceRequestId": "2",
+      "plumberId": "1",
+      "date_created": 1659120167139,
+      "id": 2
+    },
+    {
+      "serviceRequestId": "3",
+      "plumberId": "2",
+      "date_created": 1659120174480,
+      "id": 3
+    }
+  ],
+  "serviceRequests": [
+    {
+      "description": "Snake in toilet",
+      "address": "1000 Porta Potty Way",
+      "budget": "78",
+      "neededBy": "2022-07-30",
+      "id": 1
+    },
+    {
+      "description": "No hot water",
+      "address": "392 Artic circle dr",
+      "budget": "900",
+      "neededBy": "2022-08-18",
+      "id": 2
+    },
+    {
+      "description": "Snake in toilet",
+      "address": "100 Porta Potty way",
+      "budget": "6",
+      "neededBy": "2022-07-30",
+      "id": 3
+    }
+  ]
+}

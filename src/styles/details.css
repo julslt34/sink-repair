@@ -1,0 +1,28 @@
+
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#submitRequest {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(72, 219, 227);
+    color: rgb(12, 12, 10);
+    font-size: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0.25rem;
+}
+
+.label {
+	color: #404040;
+	font-family: "Fantasy", Arial, sans-serif;
+	font-size: 20px;	
+	line-height: 2;
+    font-weight: bold;
+}
